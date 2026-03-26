@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 6ea3f37c828a4a07186f2648a7313148e1a96e0a ryyansafar <130504175+ryyansafar@users.noreply.github.com> 1770885700 +0530	commit (initial): Initial Commit
+6ea3f37c828a4a07186f2648a7313148e1a96e0a 74ef412d3eff779b67ccb97abdb3e54b425f7206 ryyansafar <130504175+ryyansafar@users.noreply.github.com> 1770893362 +0530	commit: this
+74ef412d3eff779b67ccb97abdb3e54b425f7206 d875abcf2a65b957e7996542f8f762deeea135b2 ryyansafar <130504175+ryyansafar@users.noreply.github.com> 1770893390 +0530	commit: feat: Add a 500px height div element.
+d875abcf2a65b957e7996542f8f762deeea135b2 9214d63b339e4179e87f5dd02b3b52406e665c77 ryyansafar <130504175+ryyansafar@users.noreply.github.com> 1770895852 +0530	commit: feat: add dedicated About page, update Navbar links to use Next.js Link component with active state, and adjust menu page layout.

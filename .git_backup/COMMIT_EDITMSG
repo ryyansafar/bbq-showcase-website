@@ -1,0 +1,1 @@
+feat: add dedicated About page, update Navbar links to use Next.js Link component with active state, and adjust menu page layout.
