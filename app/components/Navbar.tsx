@@ -92,6 +92,16 @@ export default function Navbar({ onOpenBooking }: NavbarProps) {
                         <Link href="/about" className={`nav__link ${pathname === "/about" ? "active" : ""}`}>
                             ABOUT
                         </Link>
+                        <a 
+                            href="https://github.com/ryyansafar/bbq-showcase-website" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="nav__link flex items-center gap-1"
+                            title="View Source on GitHub"
+                        >
+                            <span className="material-symbols-outlined !text-[1.2rem]">code</span>
+                            SOURCE
+                        </a>
                     </div>
 
                     <button

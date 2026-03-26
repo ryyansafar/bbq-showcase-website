@@ -104,8 +104,13 @@ export default function Footer() {
                         © 2024 The Smokehouse. All rights reserved.
                     </p>
                     <div className="footer__socials">
-                        <a href="#" aria-label="Share">
-                            <span className="material-symbols-outlined">share</span>
+                        <a 
+                            href="https://github.com/ryyansafar/bbq-showcase-website" 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            aria-label="GitHub Source"
+                        >
+                            <span className="material-symbols-outlined">terminal</span>
                         </a>
                         <a href="#" aria-label="Instagram">
                             <span className="material-symbols-outlined">camera_enhance</span>
